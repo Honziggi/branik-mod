@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "branik_mod:block/fermentation_keg_front",
-    "side": "branik_mod:block/fermentation_keg_side",
-    "top": "branik_mod:block/fermentation_keg_side",
-    "bottom": "branik_mod:block/fermentation_keg_side"
-  }
-}

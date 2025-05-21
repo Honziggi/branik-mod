@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "branik_mod:block/branik_tap_front",
-    "side": "branik_mod:block/branik_tap_side",
-    "top": "branik_mod:block/branik_tap_top",
-    "bottom": "branik_mod:block/branik_tap_bottom"
-  }
-}

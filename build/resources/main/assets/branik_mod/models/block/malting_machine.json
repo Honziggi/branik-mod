@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "branik_mod:block/malting_machine_front",
-    "side": "branik_mod:block/malting_machine_side",
-    "top": "branik_mod:block/malting_machine_side",
-    "bottom": "branik_mod:block/malting_machine_side"
-  }
-}

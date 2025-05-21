@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "branik_mod:block/branik_tap" },
-    "facing=south": { "model": "branik_mod:block/branik_tap", "y": 180 },
-    "facing=west":  { "model": "branik_mod:block/branik_tap", "y": 270 },
-    "facing=east":  { "model": "branik_mod:block/branik_tap", "y": 90 }
-  }
-}

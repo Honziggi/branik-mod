@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "branik_mod:item/branik2l_12"
-  }
-}
