@@ -1,0 +1,11 @@
+TODO:
+
+fermentation keg - hnusne gui, ale funguje
+
+implementation fg.deobf("curse.maven:ctm-267602:2642375")
+        implementation fg.deobf("curse.maven:jei-238222:6075247")
+        implementation fg.deobf("curse.maven:thermal-expansion-69163:5372749")
+        implementation fg.deobf("curse.maven:thermal-dynamics-227443:5372747")
+        implementation fg.deobf("curse.maven:thermal-foundation-222880:5443583")
+        implementation fg.deobf("curse.maven:cofh-core-69162:5374122")
+        implementation fg.deobf("curse.maven:pipez-443900:4916633")

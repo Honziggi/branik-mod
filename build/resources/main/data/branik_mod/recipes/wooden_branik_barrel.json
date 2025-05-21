@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "lbl",
+    "ppp"
+  ],
+  "key": {
+    "p": {"item": "minecraft:oak_planks"},
+    "b": {"item": "minecraft:barrel"},
+    "l": {"item": "minecraft:oak_log"}
+  },
+  "result": {
+    "item": "branik_mod:wooden_branik_barrel",
+    "count": 1
+  }
+}

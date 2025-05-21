@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "c1c",
+    "ccc"
+  ],
+  "key": {
+    "1": {"item": "minecraft:campfire"},
+    "c": {"item": "minecraft:copper_ingot"}
+  },
+  "result": {
+    "item": "branik_mod:malting_machine",
+    "count": 1
+  }
+}

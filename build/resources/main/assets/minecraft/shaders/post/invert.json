@@ -1,0 +1,11 @@
+{
+  "targets": ["minecraft:main"],
+  "passes": [
+    {
+      "name": "invert",
+      "intarget": "minecraft:main",
+      "outtarget": "minecraft:main",
+      "auxtargets": []
+    }
+  ]
+}

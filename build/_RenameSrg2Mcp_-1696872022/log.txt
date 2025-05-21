@@ -1,0 +1,17 @@
+Java Launcher: /home/honziggi/.jdks/ms-17.0.15/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /home/honziggi/.gradle/caches/modules-2/files-2.1/curse.maven/configured-457570/5180900/65c2d287a52f52fc8d33d780192325ee6f4b6ae/configured-457570-5180900.jar, --output, /home/honziggi/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/configured-457570/5180900_mapped_parchment_2023.09.03-1.20.1/configured-457570-5180900_mapped_parchment_2023.09.03-1.20.1.jar, --mcp, /home/honziggi/.gradle/caches/parchmentgradle/org/parchmentmc/data/parchment-1.20.1/2023.09.03/parchment-1.20.1-2023.09.03.zip, --strip-signatures'
+Classpath:
+ - /home/honziggi/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.4.4/installertools-1.4.4-fatjar.jar
+Working directory: /home/honziggi/Desktop/branik-mod-main/build/_RenameSrg2Mcp_-1696872022
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /home/honziggi/.gradle/caches/modules-2/files-2.1/curse.maven/configured-457570/5180900/65c2d287a52f52fc8d33d780192325ee6f4b6ae/configured-457570-5180900.jar
+Output: /home/honziggi/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/configured-457570/5180900_mapped_parchment_2023.09.03-1.20.1/configured-457570-5180900_mapped_parchment_2023.09.03-1.20.1.jar
+MCP:    /home/honziggi/.gradle/caches/parchmentgradle/org/parchmentmc/data/parchment-1.20.1/2023.09.03/parchment-1.20.1-2023.09.03.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Stripped signature entry data META-INF/MRCRAYFI.SF
+Stripped signature entry data META-INF/MRCRAYFI.RSA
+Process complete

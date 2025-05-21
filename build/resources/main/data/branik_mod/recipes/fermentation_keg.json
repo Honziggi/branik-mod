@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "igi",
+    "iii"
+  ],
+  "key": {
+    "i": {"item": "minecraft:iron_ingot"},
+    "g": {"item": "minecraft:glass"}
+  },
+  "result": {
+    "item": "branik_mod:fermentation_keg",
+    "count": 1
+  }
+}

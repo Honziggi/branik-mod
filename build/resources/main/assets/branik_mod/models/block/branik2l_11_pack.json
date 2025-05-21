@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "north": "branik_mod:block/branik2l_11_pack_side",
+    "south": "branik_mod:block/branik2l_11_pack_side",
+    "east": "branik_mod:block/branik2l_11_pack_side",
+    "west": "branik_mod:block/branik2l_11_pack_side",
+    "up": "branik_mod:block/branik2l_11_pack_top",
+    "down": "branik_mod:block/branik2l_11_pack_bottom"
+  }
+}

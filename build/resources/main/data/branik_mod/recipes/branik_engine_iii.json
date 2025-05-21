@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "b1b",
+    "cIc"
+  ],
+  "key": {
+    "d": {"item": "minecraft:diamond"},
+    "b": {"item": "branik_mod:branik2l_18"},
+    "1": {"item": "branik_mod:branik_engine_ii"},
+    "I": {"item": "minecraft:iron_block"},
+    "c": {"item": "minecraft:cyan_concrete"}
+  },
+  "result": {
+    "item": "branik_mod:branik_engine_iii",
+    "count": 1
+  }
+}

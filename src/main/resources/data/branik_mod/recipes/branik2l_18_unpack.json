@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "branik_mod:branik2l_18_pack"
+    }
+  ],
+  "result": {
+    "item": "branik_mod:branik2l_18",
+    "count": 6
+  }
+}

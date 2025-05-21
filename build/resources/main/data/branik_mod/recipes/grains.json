@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "branik_mod:hops" },
+    { "item": "branik_mod:hops" },
+    { "item": "branik_mod:hops" }
+  ],
+  "result": {
+    "item": "branik_mod:grains",
+    "count": 4
+  }
+}

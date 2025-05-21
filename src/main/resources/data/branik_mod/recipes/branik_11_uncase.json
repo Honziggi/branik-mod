@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "branik_mod:branik_11_case"
+    }
+  ],
+  "result": {
+    "item": "branik_mod:branik_11",
+    "count": 9
+  }
+}
