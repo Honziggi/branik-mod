@@ -1,18 +1,34 @@
-# .gitignore
-
-# Ignore everything
+# Ignore everything by default
 *
 
-# But don't ignore these:
+# Ignore unwanted dirs
+.gradle
+build/
+out/
+.idea
+run
+.kotlin
+
+# Keep project files
 !/.gitignore
 !/build.gradle.kts
 !/settings.gradle.kts
 !/gradle.properties
+!/gradlew
+!/gradlew.bat
+!/settings.gradle
 !/README.md
 !LICENSE
 !pack.mcmeta
 
+# Keep source code
 !/src/
 !/src/**
-!/src/**/**
 !/src/**/*
+
+# Explicitly keep resources
+!src/main/resources/
+!src/main/resources/assets/
+!src/main/resources/assets/**
+!src/main/resources/data/
+!src/main/resources/data/**
